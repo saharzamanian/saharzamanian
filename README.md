@@ -32,6 +32,14 @@ An Evaluation of Deep Learning-Based Models for Intrusion Detection in Industria
 
 [Read publication](https://doi.org/10.1109/ISCC65549.2025.11325968)
 
+Real-time Intrusion Detection System for Digital Twins in Industrial Control Systems — IEEE SoftCOM 2026
+
+[Read publication](https://ieeexplore.ieee.org/abstract/document/11762096)
+
+The Fast and the Vulnerable: A Systematization of WebAssembly Security — IEEE FRUCT 2026
+
+[Upcoming Link](https://www.fruct.org/)
+
 ## 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/saharzamanian/)
